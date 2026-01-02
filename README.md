@@ -21,7 +21,7 @@ Bot de Telegram en Node.js diseñado para monitorizar el estado (Uptime) de una 
 
 1.  **Clonar y dependencias:**
     ```bash
-    git clone <repo_url>
+    git clone https://github.com/ComicIvans/monitor-bot.git
     cd monitor-bot
     pnpm install
     ```

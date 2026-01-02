@@ -37,7 +37,7 @@ Bot de Telegram en Node.js diseñado para monitorizar el estado (Uptime) de una 
     ADMIN_ID=123456789
     
     # URLs separadas por comas (sin espacios)
-    URLS=[https://miservidor1.com](https://miservidor1.com),[https://api.miweb.com/health](https://api.miweb.com/health)
+    URLS=https://miservidor1.com,https://api.miweb.com/health
     
     # Intervalo en milisegundos (Ej: 60000 = 1 minuto)
     CHECK_INTERVAL=60000
